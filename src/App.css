@@ -38,4 +38,6 @@
 }
 .background{
   background-image: linear-gradient(to right,#FFFFE0,white);
+  
+  padding:30px;
 }
