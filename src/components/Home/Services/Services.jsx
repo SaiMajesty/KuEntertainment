@@ -38,23 +38,25 @@ const Services = () => {
     {
       id: 5,
       name: 'Social Media',
-      desc: 'We are a social media marketing agency that helps businesses increase their online presence and reach their target audience through various social media platforms. Our team of experts will work closely with you to understand your business goals and create a customized social media strategy that will help you achieve them.',
+      desc: 'We are a social media marketing agency that helps businesses increase the online presence and reach target audience through various social media platforms. Our team of experts will work closely with you to understand your business goals and create a customized social media strategy that will help you achieve them.',
       img: social
     },
     {
       id: 6,
       name: 'Digital Marketing',
-      desc: 'We are a digital marketing agency that helps businesses increase their online visibility and reach their target audience through a variety of digital channels. Our team of experts will work closely with you to understand your business goals and create a customized digital marketing strategy that will help you achieve them.',
+      desc: 'We are a digital marketing agency that helps businesses increase their online visibility and reach target audience through a variety of digital channels. Our team of experts will work closely with you to understand your business goals and create a customized digital marketing strategy that will help you achieve them.',
       img: digital
     },
   ]
   return (
-    <div id="services" className=' container mx-5 md:mx-auto'>
+    <div id="services" className=' pr-8 md:pr-0 container mx-5 md:mx-auto'>
       <div className='w-1/2 mx-auto text-center'>
         <h2 className='text-4xl  font-semibold my-5'>Our Services</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum accusamus ab similique fuga eveniet assumenda aliquid ratione neque vel nihil.</p>
+        <p className="my-5">
+                    <span className="italic font-bold">KU Entertainment  </span>   provides web content design and developement services as well as Content Marketing
+                    </p>
       </div>
-      <div className='grid grid-cols-1 md:grid-cols-3 gap-5 my-10'>
+      <div className='grid grid-cols-1 md:grid-cols-3   gap-5 my-10 '>
         {
           services.map(service => <Service key={service.id} service={service} />)
         }

@@ -13,7 +13,7 @@ const Choose = () => {
                     Our Special Features.
                     </h3>
                     <p className="my-5 text-theme-text">
-                    Ku Entertainment provides web content design and developement services as well as Content Marketing
+                    <span className="italic font-bold">KU Entertainment </span> provides web content design and developement services as well as Content Marketing
                     </p>
 
 
@@ -28,7 +28,7 @@ const Choose = () => {
                     Goals and Objectives.
                     </h3>
                     <p className="my-5 text-theme-text">
-                    At KU Entertainment, our goal is to help our clients achieve success in the entertainment industry through effective digital marketing strategies. Our main objectives are
+                    At <span className="italic font-bold">KU Entertainment </span>, our goal is to help our clients achieve success in the industry through effective digital marketing strategies. Our main objectives are
 
 Increase online visibility, We aim to help our clients establish a strong online presence and reach a wider audience through social media, SEO, and other digital channels.
               </p>
@@ -43,7 +43,7 @@ Increase online visibility, We aim to help our clients establish a strong online
                     Efficiency.
                     </h3>
                     <p className="my-5 text-theme-text">
-                    At Ku Entertainment, we strive for the utmost effiency in our Dead Line Submission staff. Our team works hard to ensure that all forms and deadlines are met on time and accurately so that our clients can have peace of mind. We are committed to providing quality services to the best of our ability.
+                    At <span className="italic font-bold">KU Entertainment </span>, we strive for the utmost effiency in our Dead Line Submission staff. Our team works hard to ensure that all forms and deadlines are met on time and accurately so that our clients can have peace of mind. We are committed to providing quality services to the best of our ability.
               </p>      
               </div>          
             </div>
@@ -54,7 +54,7 @@ Increase online visibility, We aim to help our clients establish a strong online
                     Stratergy.
                     </h3>
                     <p className="my-5 text-theme-text">
-                    At KU Entertainment, we understand the importance of a strong and comprehensive digital marketing strategy. Our team of experts will work closely with you to create a customized plan that will help you reach your target audience and achieve your business goals.
+                    At <span className="italic font-bold">KU Entertainment </span>, we understand the importance of a strong and comprehensive digital marketing strategy. Our team of experts will work closely with you to create a customized plan that will help you reach your target audience and achieve your business goals.
               </p>      
               </div>          
            

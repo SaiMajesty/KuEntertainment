@@ -27,7 +27,7 @@ const Banner = () => {
           </div>
         </div>
         <div className="">
-          <img src={bannerImg} className="rounded w-full h-[400px]" alt="" />
+          <img src={bannerImg} className="rounded w-full h-[400px] pl-0 md:pr-0 pr-8" alt="" />
         </div>
       </div>
     </div>

@@ -19,7 +19,7 @@ const TestMonials = () => {
       "_id": "635a0c0b64a6d231228952ae",
       "name": "Awlad Hossain",
       "img": "https://i.ibb.co/ZLnhzJ0/1.png",
-      "review": "I had the pleasure of working with KU Entertainment on a digital marketing campaign for my entertainment company. From the start, their team was professional, knowledgeable, and easy to work with. They took the time to understand my business goals and created a customized strategy that helped me increase my online visibility and reach a wider audience."
+      "review": "I had the pleasure of working with KU Entertainment on a digital marketing campaign for my company. From the start, their team was professional, knowledgeable, and easy to work with. They took the time to understand my business goals and created a customized strategy that helped me increase my online visibility and reach a wider audience."
     },
     {
       "_id": "635a0c0b64a6d231228962ae",

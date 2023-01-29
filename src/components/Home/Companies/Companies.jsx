@@ -47,7 +47,7 @@ const Companies = () => {
     },
   ];
   return (
-    <div className="my-10">
+    <div className="my-10 ">
       <h3 className="text-2xl font-bold my-10">Trusted by</h3>
       <Swiper
         slidesPerView={6}

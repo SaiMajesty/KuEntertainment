@@ -15,7 +15,7 @@ const MarketingSolutions = () => {
             Supercharge your Business with Social Media
           </h3>
           <p className="my-5 text-theme-text">
-          Ku Entertainment provides web content design and developement services as well as Content Marketing
+          <span className="italic font-bold">KU Entertainment </span> provides web content design and developement services as well as Content Marketing
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-12 my-20 gap-20">
@@ -26,7 +26,7 @@ const MarketingSolutions = () => {
                   Email Marketing
                 </h4>
                 <p className="my-5 text-theme-text">
-                At KU Entertainment, we understand the importance of email marketing in today's digital landscape. Our team of experts will work closely with you to create a customized email marketing strategy that will help you connect with your target audience and achieve your business goals.
+                <span className="italic font-bold">KU Entertainment </span>, we understand the importance of email marketing in today's digital landscape. Our team of experts will work closely with you to create a customized email marketing strategy that will help you connect with your target audience and achieve your business goals.
 
 Our services include,
 
@@ -44,7 +44,7 @@ Email list building, We will help you develop a targeted email list of potential
                   Stratergy Development
                 </h4>
                 <p className="my-5 text-white">
-                Ku entertainment has had great success in stratergy Developement. Through the implementation of Startergy, a company-wide strategery, they have been able to gain competitive advantage over their competitors. The company regularly solicits suggestions from employees on ways to further develop and refine their strategery for even greater success.
+                <span className="italic font-bold">KU Entertainment </span> has had great success in stratergy Developement. Through the implementation of Startergy, a company-wide strategery, we have been able to gain competitive advantage over the competitors. The company regularly solicits suggestions from employees on ways to further develop and refine their strategery for even greater success.
                 </p>
                 
                   <button className="bg-white  rounded text-xl py-3 px-5">
@@ -59,7 +59,7 @@ Email list building, We will help you develop a targeted email list of potential
                 Content Stratergy
               </h4>
               <p className="my-5 text-white">
-              Ku entertainment offers a wide range of web content design and development services. They understand the importance of having a solid content stratergy and are committed to creating engaging, relevant and impactful content for their clients. They keep up with the latest trends in the industry to ensure that their content is as effective as possible.
+              <span className="italic font-bold">KU Entertainment </span> offers a wide range of web content design and development services. We understand the importance of having a solid content stratergy and are committed to creating engaging, relevant and impactful content for their clients. We keep up with the latest trends in the industry to ensure that the content is as effective as possible.
               </p>
               
                 <button className="bg-white text-secondary rounded text-xl py-3 px-5">
@@ -74,10 +74,10 @@ Email list building, We will help you develop a targeted email list of potential
               Content Marketing
             </h4>
             <p className="my-5 text-theme-text">
-            KU Entertainment offers a comprehensive suite of services for web content design and development, including content marketing. Their experienced team will help you create engaging and effective content strategies tailored to your business goals, from developing original content assets to executing campaigns across multiple channels. 
+            <span className="italic font-bold">KU Entertainment </span> offers a comprehensive suite of services for web content design and development, including content marketing. Our experienced team will help you create engaging and effective content strategies tailored to your business goals, from developing original content assets to executing campaigns across multiple channels. 
             </p>
             <p className="my-5 text-theme-text">
-            With their expert guidance, you can be sure your content marketing efforts are always successful.
+            With our expert guidance, you can be sure your content marketing efforts are always successful.
             </p>
             <button className="bg-secondary text-white rounded text-xl py-3 px-5">
               Learn More
